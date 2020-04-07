@@ -11,7 +11,9 @@ Reverse shell using Windows Registry file (.reg).
 ### Reverse TCP Port Forwarding using Ngrok.io
 
 ### Requirements:
-#### Ngrok Authtoken: Sign up at: https://ngrok.com/signup
+#### Ngrok Authtoken (for TCP Tunneling): Sign up at: https://ngrok.com/signup
+#### Your authtoken is available on your dashboard: https://dashboard.ngrok.com
+#### Install your auhtoken: ./ngrok authtoken <YOUR_AUTHTOKEN>
 #### Target must reboot/re-login after installing the .reg file
 
 ## Legal disclaimer:
